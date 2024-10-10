@@ -22,19 +22,19 @@ const Doctor = () => {
             </div>):(
             <form onSubmit={handleSubmit}>
                 <div className='flex flex-col mb-4 '>
-                    <label htmlFor="name">Name: &apos;s</label>
+                    <label htmlFor="name">Name:</label>
                     <input type="text" className='rounded-2xl bg-neutral-300 text-black ' value={name} onChange={(e)=>setName(e.target.value)} placeholder='Name'/>
                 </div>
                 <div className='flex flex-col mb-4'>
-                    <label htmlFor="name">Email: &apos;s</label>
+                    <label htmlFor="name">Email:</label>
                     <input type="email" className='rounded-2xl bg-neutral-300 text-black' value={email} onChange={(e)=>setEmail(e.target.value)} placeholder='Email' />
                 </div>
                 <div className='flex flex-col mb-4'>
-                    <label htmlFor="name">Age: &apos;s</label>
+                    <label htmlFor="name">Age:</label>
                     <input type="age" className='rounded-2xl bg-neutral-300 text-black' value={age} onChange={(e)=>setAge(e.target.value)} placeholder='Age' />
                 </div>
                 <div className='flex flex-col mb-4'>
-                    <label htmlFor="gneder">Gender: &apos;s</label>
+                    <label htmlFor="gneder">Gender:</label>
                     <select name="gender" id="gender" className='rounded-2xl text-black bg-neutral-300' value={gender} 
                 onChange={(e) => setGender(e.target.value)}>
                         <option value="">Select Gender</option>
