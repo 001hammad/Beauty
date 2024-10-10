@@ -9,7 +9,7 @@ const Doctor = () => {
     const [gender, setGender] = useState('');
     const [Submitted, setSubmitted] = useState(false);
     
-    const handleSubmit = (e:any) => {
+    const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
         e.preventDefault();
         setSubmitted(true);
     }
