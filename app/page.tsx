@@ -1,7 +1,7 @@
 import React from 'react'
 import Content from './components/Content'
 import Images from './components/Images'
-import Footer from "./components/Footer";
+
 
 
 const Home = () => {
@@ -9,7 +9,7 @@ const Home = () => {
     <div>
       <Images/>
       <Content/>
-      <Footer/>
+
     </div>
   )
 }
