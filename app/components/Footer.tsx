@@ -27,11 +27,11 @@ const Footer = () => {
       <div className='self-start bg-[#8f5d2b] h-50 w-48 p-2 rounded-md border-2 border-white'>
         <h3 className='font-bold text-xl'>Contact With Us </h3>
         <form>
-          <label htmlFor="name">Name</label>
+          <label htmlFor="name">Name &apos;s</label>
           <input type="text" placeholder='Enter Your Name' className='bg-black'/>
-          <label htmlFor="name">Email</label>
+          <label htmlFor="name">Email &apos;s</label>
           <input type="text" placeholder='Enter Your Email' className='bg-black'/>
-          <label htmlFor="name">Queiry</label>
+          <label htmlFor="name">Queiry &apos;s</label>
           <input type="text" placeholder='Enter Your Queiry' className='bg-black'/>
           <button className='bg-black p-1 mt-2 float-right hover:bg-orange-950 rounded-md hover:p-2 duration-200 '>Submit</button>
         </form>
