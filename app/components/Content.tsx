@@ -12,34 +12,34 @@ const Content = () => {
       </h3>
       <h3 className="text-white text-center mt-4">Click Now</h3>
       <div className="flex justify-center items-center space-x-5 text-black pb-3 pt-10">
-        <div className="border-2 border-white bg-black text-white h-44 w-56 ml-2 mr-5 rounded-3xl p-6 inline-block hover:border-b-8 hover:h-60 hover:bg-[#8f5d2b] hover:font-bold transition-duration-700">
+        <div className="border-2 border-white bg-black text-white h-44 w-56 ml-2 mr-5 rounded-3xl p-6 inline-block hover:border-b-8 hover:h-60 hover:bg-[#8f5d2b] hover:font-bold duration-700">
           <p><b>Featured</b>
           <br />
           <u>Women</u>
           <br />
           Care Get expert care for women&apos;s  health</p>
         </div>
-        <div className="border-2 border-white bg-black h-44 text-white w-56 mr-5 rounded-3xl p-6 inline-block hover:border-b-8 hover:h-60 hover:bg-[#8f5d2b] hover:font-bold transition-duration-700">
+        <div className="border-2 border-white bg-black h-44 text-white w-56 mr-5 rounded-3xl p-6 inline-block hover:border-b-8 hover:h-60 hover:bg-[#8f5d2b] hover:duration-700">
           <p><b>Featured</b>
           <br />
           <u>Mens</u>
           <br />
           Care Get expert care for men&apos;s health</p>
         </div>
-        <div className="border-2 border-white bg-black text-white h-44 w-56 mr-5 rounded-3xl p-6 inline-block hover:border-b-8 hover:h-60 hover:bg-[#8f5d2b] hover:font-bold transition-duration-700">
+        <div className="border-2 border-white bg-black text-white h-44 w-56 mr-5 rounded-3xl p-6 inline-block hover:border-b-8 hover:h-60 hover:bg-[#8f5d2b] hover:font-bold duration-700">
           <p><b>Featured</b>
           <br />
           <u>NewBorn Baby</u>
           <br />
           Care Get expert care for newborn babies</p>
         </div>
-        <div className="border-2 border-white bg-black text-white h-44 w-56 mr-5 rounded-3xl p-6 inline-block hover:border-b-8 hover:h-60 hover:bg-[#8f5d2b] hover:font-bold transition-duration-700">
+        <div className="border-2 border-white bg-black text-white h-44 w-56 mr-5 rounded-3xl p-6 inline-block hover:border-b-8 hover:h-60 hover:bg-[#8f5d2b] hover:font-bold duration-700">
           <p><b>Featured</b>
           <br />
           <u>Aged Men</u>
           Care Get expert care for aged men</p>
         </div>
-        <div className="border-2 border-white bg-black text-white h-44 w-56 rounded-3xl p-6 inline-block hover:border-b-8 hover:h-60 hover:bg-[#8f5d2b] hover:font-bold transition-duration-700">
+        <div className="border-2 border-white bg-black text-white h-44 w-56 rounded-3xl p-6 inline-block hover:border-b-8 hover:h-60 hover:bg-[#8f5d2b] hover:font-bold duration-700">
           <p><b>Featured</b>
           <br />
           <u>Aged womens</u>

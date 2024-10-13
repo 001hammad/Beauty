@@ -1,8 +1,8 @@
 import React from 'react'
 import Image from 'next/image'
-import cream1 from '../../../public/cream1.png'
-import serum from '../../../public/serum.png'
-import cream2 from '../../../public/cream2.png'
+import cream1 from '../../public/cream1.png'
+import serum from '../../public/serum.png'
+import cream2 from '../../public/cream2.png'
 
 
 const Products = () => {

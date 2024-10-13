@@ -16,7 +16,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body 
-  className="bg-[#8f5d2b] text-white" 
+  className=" text-white" 
   style={{ 
     background: 'url(https://img.freepik.com/free-photo/abstract-smooth-brown-wall-background-layout-design-web-template-business-report-with-smooth-circle-gradient-color_1258-54599.jpg)', 
     backgroundSize: 'cover', 

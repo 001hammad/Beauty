@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
-import Mainpic from '../../../public/mainpic.png'
+import Mainpic from '../../public/mainpic.png'
 
 const Images = () => {
   return (

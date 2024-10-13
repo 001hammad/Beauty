@@ -37,7 +37,7 @@ const Footer = () => {
         </form>
       </div>
     </div>
-       <div className='bg-black text-center text-xs p-2'><h1>&copy; Website Maked By Hammad. <br /> All Rights Reserved</h1></div>
+       <div className='bg-black text-center text-xs p-2'><h1>&copy; Website Owner Hammad. <br /> All Rights Reserved</h1></div>
     </footer>
     
   );

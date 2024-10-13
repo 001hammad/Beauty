@@ -14,8 +14,8 @@ const Doctor = () => {
         setSubmitted(true);
     }
   return (
-    <main className='flex  justify-center h-screen items-center text-white'>
-        <div className='bg-black p-2 rounded-2xl  shadow-xl shadow-white w-3/12'>
+    <main className='flex  justify-center h-screen items-center  text-white '>
+        <div className='bg-black p-2 rounded-2xl  shadow-xl shadow-white  bg-gradient-to-r from-black to-orange-950 w-3/12'>
             <h1 className='text-center font-bold text-3xl'>Emergency Doctor Consultation Form</h1>
             {Submitted ? ( <div className='text-center text-2xl text-green-500'>
                 <h1>Submitted Sucessfully</h1>
