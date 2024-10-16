@@ -1,15 +1,11 @@
 import React from 'react'
-import Image from 'next/image'
-import Logo from '../../public/logo.png'
+
 import Link from 'next/link'
 
 const Header = () => {
   return (
     <header>
       <nav className='bg-black h-16 flex justify-between items-center'>
-        <div className='ml-2'>
-          <Image src={Logo} alt='logo' className='w-12' />
-        </div>
         <h1 className='text-4xl font-bold mx-auto hidden md:block'>Beauty Care</h1>
         <div className='flex justify-end'>
           <ul className='flex text-lg space-x-5 md:space-x-10'>
